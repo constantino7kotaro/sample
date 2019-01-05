@@ -8,8 +8,10 @@ def division(x,y)
     x / y
 end
 
-#puts division(10,0)
-
 special_price = 200
 puts special_price
 puts special_price
+
+def add(x,y)
+    x + y
+end
